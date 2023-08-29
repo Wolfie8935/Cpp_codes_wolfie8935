@@ -24,19 +24,12 @@ If you're interested in exploring the code in this repository, follow these step
 ## Contributing
 I welcome contributions from the community! If you've found a bug, have an interesting project idea, or want to improve the existing code, feel free to open an issue or submit a pull request. Please make sure to follow the contribution guidelines.
 
-## Contributers
-
-Thanks to these wonderful people who have contributed to this project:
-
-<a href="https://github.com/wolfie8935/fun-learning-cpp/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=wolfie8935/fun-learning-cpp" />
-</a>
-
 ## License
 This repository is licensed under the MIT License. Feel free to use the code for your own learning and personal projects.
 
-Happy coding!
+<h5>Happy coding!</h5>
 Aman (@wolfie8935)
+
 [LinkedIn](https://www.linkedin.com/in/wolfie8935/)
 [GitHub](https://github.com/wolfie8935)
 [Email](mailto:wolfie8935@gmail.com)
