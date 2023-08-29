@@ -8,7 +8,7 @@ Hey there! I'm Aman Goel, a coding enthusiast who's deeply in love with C++. Thi
 
 ## Repository Link
 
-[**Aman's Code Haven**](https://github.com/Wolfie8935/Cpp_codes_wolfie8935)
+[**C++ Codes Wolfie8935**](https://github.com/Wolfie8935/Cpp_codes_wolfie8935)
 
 ## Contact Me
 
